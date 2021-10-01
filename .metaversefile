@@ -1,4 +1,4 @@
 {
   "name": "fox",
-  "start_url": "./index.js"
+  "start_url": "fox.glb"
 }
