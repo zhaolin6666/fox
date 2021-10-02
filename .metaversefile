@@ -1,4 +1,12 @@
 {
   "name": "fox",
-  "start_url": "fox.glb"
+  "start_url": "fox.glb",
+  "components": [
+    {
+      "key": "look",
+      "value": {
+        "rootBone": "Neck_1"
+      }
+    }
+  ]
 }
