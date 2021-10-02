@@ -7,6 +7,14 @@
       "value": {
         "rootBone": "Neck_1"
       }
+    },
+    {
+      "key": "pet",
+      "value": {
+        "idleAnimation": "",
+        "walkAnimation": "Walk",
+        "runAnimation": ""
+      }
     }
   ]
 }
