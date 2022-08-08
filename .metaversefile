@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "fox.glb",
+  "start_url": "lisk_anim_v1_texta.glb",
   "components": [
     {
       "key": "look",
